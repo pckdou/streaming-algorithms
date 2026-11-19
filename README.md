@@ -68,7 +68,5 @@ results/                 결과 CSV, env.json, figures/ (fig01~fig11)
 | CMS stock (w=2000, d=5) | 과소추정 0, 상위 10% 상대오차 3.1%, Counter 대비 메모리 71.85% 절감 |
 | CMS pair (w=50000, d=5) | 과소추정 0, Counter 대비 메모리 90.73% 절감 |
 
-자세한 분석은 제출한 PDF 보고서를 참고하세요.
-
 ## Environment
-Windows 11, Intel64 Family 6 Model 140, Python 3.14.3, numpy 2.5.5 (`results/env.json`)
+Windows 11, 11th Gen Intel Core i7-1165G7 @ 2.80GHz, Python 3.14.3, numpy 2.5.5 (`results/env.json`)
